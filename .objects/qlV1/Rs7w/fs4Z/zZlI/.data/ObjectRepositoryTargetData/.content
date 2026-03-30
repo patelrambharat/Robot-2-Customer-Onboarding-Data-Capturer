@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="1nRJsfwMjUm2896LaptciA" Reference="8_eJNt6p7k6Y-9YroTvdDg/zZlI0r0umUeBCTRnH1kM_A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="1fa8e5ec-f775-4696-9533-094810c86ccb" CvElementArea="323, 157, 217, 42" CvType="InputBox" DesignTimeRectangle="322, 157, 219, 42" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='TkChild' title='Robinet' /&gt;" Guid="22e630ab-e310-4e14-b1a3-5be5550633e6" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='The Automation Challenge | CRM App' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="15, 159, 98, 41" FullSelectorArgument="&lt;wnd cls='TkChild' idx='34' /&gt;" Guid="e4e29769-73c7-4f18-a049-7b8046300074" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="685f65f60c702473e8425b203747d1bb.jpg" xmlns="">0SLiJyxQG_UugMzx2oUM7YQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

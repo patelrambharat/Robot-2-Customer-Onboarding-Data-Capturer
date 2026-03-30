@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Robinet",
+  "Type": "Element",
+  "Id": "zZlI0r0umUeBCTRnH1kM_A",
+  "Reference": "8_eJNt6p7k6Y-9YroTvdDg/zZlI0r0umUeBCTRnH1kM_A",
+  "ParentRef": "8_eJNt6p7k6Y-9YroTvdDg/fs4ZW4gUHkSMM-uliIkuUw",
+  "Created": "2026-03-25T16:51:51.850873Z",
+  "Updated": "2026-03-25T16:51:51.850873Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.28.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
